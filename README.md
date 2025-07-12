@@ -19,3 +19,8 @@ From coursera:
 2) Custom and Distributed Training with TensorFlow
 3) Advanced Computer Vision with TensorFlow
 4) Generative Deep Learning with TensorFlow
+
+## **Disclaimer**  
+I made this repository as a reference. Please do not copy paste the solution as is. Thank you :) 
+All the sources are from **DeeplearningAI**
+
